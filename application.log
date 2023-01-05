@@ -1,0 +1,44 @@
+2023-01-03 23:22:52,937  INFO [main] SauceDemoProject:47 - Browser is opened
+2023-01-03 23:22:53,206  INFO [main] SauceDemoProject:50 - Browser is maximized
+2023-01-03 23:22:54,688  INFO [main] SauceDemoProject:55 - url is opened
+2023-01-03 23:22:56,382  INFO [main] SauceDemoProject:58 - screenshot is taken
+2023-01-03 23:22:57,327  INFO [main] SauceDemoProject:62 - usernaeme is entered
+2023-01-03 23:22:57,801  INFO [main] SauceDemoProject:65 - password eneterd
+2023-01-03 23:22:59,506  INFO [main] SauceDemoProject:68 - clicked on login button
+2023-01-03 23:22:59,508  INFO [main] SauceDemoProject:71 - Went on HomePage
+2023-01-03 23:23:02,111  INFO [main] SauceDemoProject:75 - screenshot is taken
+2023-01-03 23:23:04,185  INFO [main] SauceDemoProject:84 - browser is closed
+2023-01-03 23:23:04,186  INFO [main] SauceDemoProject:86 - End of Program
+2023-01-03 23:23:08,669  INFO [main] SauceDemoProject:47 - Browser is opened
+2023-01-03 23:23:08,833  INFO [main] SauceDemoProject:50 - Browser is maximized
+2023-01-03 23:23:12,669  INFO [main] SauceDemoProject:55 - url is opened
+2023-01-03 23:23:13,560  INFO [main] SauceDemoProject:58 - screenshot is taken
+2023-01-03 23:23:13,884  INFO [main] SauceDemoProject:62 - usernaeme is entered
+2023-01-03 23:23:14,271  INFO [main] SauceDemoProject:65 - password eneterd
+2023-01-03 23:23:14,833  INFO [main] SauceDemoProject:68 - clicked on login button
+2023-01-03 23:23:14,834  INFO [main] SauceDemoProject:71 - Went on HomePage
+2023-01-03 23:23:17,288  INFO [main] SauceDemoProject:75 - screenshot is taken
+2023-01-03 23:23:19,013  INFO [main] SauceDemoProject:84 - browser is closed
+2023-01-03 23:23:19,015  INFO [main] SauceDemoProject:86 - End of Program
+2023-01-03 23:23:23,316  INFO [main] SauceDemoProject:47 - Browser is opened
+2023-01-03 23:23:23,472  INFO [main] SauceDemoProject:50 - Browser is maximized
+2023-01-03 23:23:27,003  INFO [main] SauceDemoProject:55 - url is opened
+2023-01-03 23:23:27,730  INFO [main] SauceDemoProject:58 - screenshot is taken
+2023-01-03 23:23:28,033  INFO [main] SauceDemoProject:62 - usernaeme is entered
+2023-01-03 23:23:28,326  INFO [main] SauceDemoProject:65 - password eneterd
+2023-01-03 23:23:28,765  INFO [main] SauceDemoProject:68 - clicked on login button
+2023-01-03 23:23:28,767  INFO [main] SauceDemoProject:71 - Went on HomePage
+2023-01-03 23:23:31,826  INFO [main] SauceDemoProject:75 - screenshot is taken
+2023-01-03 23:23:39,634  INFO [main] SauceDemoProject:84 - browser is closed
+2023-01-03 23:23:39,635  INFO [main] SauceDemoProject:86 - End of Program
+2023-01-03 23:23:43,779  INFO [main] SauceDemoProject:47 - Browser is opened
+2023-01-03 23:23:44,071  INFO [main] SauceDemoProject:50 - Browser is maximized
+2023-01-03 23:23:46,847  INFO [main] SauceDemoProject:55 - url is opened
+2023-01-03 23:23:47,624  INFO [main] SauceDemoProject:58 - screenshot is taken
+2023-01-03 23:23:47,996  INFO [main] SauceDemoProject:62 - usernaeme is entered
+2023-01-03 23:23:48,360  INFO [main] SauceDemoProject:65 - password eneterd
+2023-01-03 23:23:49,088  INFO [main] SauceDemoProject:68 - clicked on login button
+2023-01-03 23:23:49,099  INFO [main] SauceDemoProject:71 - Went on HomePage
+2023-01-03 23:23:51,928  INFO [main] SauceDemoProject:75 - screenshot is taken
+2023-01-03 23:23:53,451  INFO [main] SauceDemoProject:84 - browser is closed
+2023-01-03 23:23:53,452  INFO [main] SauceDemoProject:86 - End of Program
